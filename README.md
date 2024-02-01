@@ -79,11 +79,11 @@ Uso
 
 7.  Acceder a las aplicaciones a través de los siguientes enlaces:
 
-*   Keycloak: [http://steam.narino.gov.co:8080](http://steam.narino.gov.co:8080)
-*   Backend: [http://steam.narino.gov.co:4000](http://steam.narino.gov.co:4000)
-*   Frontend: [http://steam.narino.gov.co:3000](http://steam.narino.gov.co:3000)
-*   Moodle: [http://steam.narino.gov.co:5000](http://steam.narino.gov.co:5000)
-*   Mailhog (para pruebas de correo): [http://steam.narino.gov.co:8025](http://steam.narino.gov.co:8025)
+*   Keycloak: [http://localhost:8080](http://localhost:8080)
+*   Backend: [http://localhost:4000](http://localhost:4000)
+*   Frontend: [http://localhost:3000](http://localhost:3000)
+*   Moodle: [http://localhost:5000](http://localhost:5000)
+*   Mailhog (para pruebas de correo): [http://localhost:8025](http://localhost:8025)
 
 8.  Probar los aplicativos
 
