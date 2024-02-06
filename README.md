@@ -79,11 +79,11 @@ Uso
 
 7.  Acceder a las aplicaciones a través de los siguientes enlaces:
 
-*   Keycloak: [http://localhost:8080](http://localhost:8080)
-*   Backend: [http://localhost:4000](http://localhost:4000)
-*   Frontend: [http://localhost:3000](http://localhost:3000)
-*   Moodle: [http://localhost:5000](http://localhost:5000)
-*   Mailhog (para pruebas de correo): [http://localhost:8025](http://localhost:8025)
+*   Keycloak: [http://172.19.0.214:8080](http://172.19.0.214:8080)
+*   Backend: [http://172.19.0.214:4000](http://172.19.0.214:4000)
+*   Frontend: [http://172.19.0.214:3000](http://172.19.0.214:3000)
+*   Moodle: [http://172.19.0.214:5000](http://172.19.0.214:5000)
+*   Mailhog (para pruebas de correo): [http://172.19.0.214:8025](http://172.19.0.214:8025)
 
 8.  Probar los aplicativos
 
